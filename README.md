@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsaltunyuva&show_icons=true&locale=en" alt="fsaltunyuva" /></p>
 
 
-<h3 align="left">GIF's from my games</h3>
+<h3 align="left">GIF's from my games:</h3>
 
 ![](https://github.com/fsaltunyuva/fsaltunyuva/blob/main/devrun.gif)
 ![](https://github.com/fsaltunyuva/RocketOperator/blob/main/Image-Gifs/Rocket%20Operator.gif)
