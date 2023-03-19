@@ -21,4 +21,5 @@
 
 
 <h3 align="left">GIF's from my games</h3>
+
 ![](https://github.com/fsaltunyuva/SnowBoarder/blob/main/SnowBoarder%20Project/Images-Gifs/snowboarder.gif)
