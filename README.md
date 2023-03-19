@@ -20,5 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsaltunyuva&show_icons=true&locale=en" alt="fsaltunyuva" /></p>
 
 
-GIF's from my games
+<h3 align="left">GIF's from my games</h3>
 ![](https://github.com/fsaltunyuva/SnowBoarder/blob/main/SnowBoarder%20Project/Images-Gifs/snowboarder.gif)
