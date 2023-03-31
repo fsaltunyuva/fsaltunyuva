@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **game development with Unity**
 
 - 💬 Ask me about **Java**
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsaltunyuva&show_icons=true&locale=en&layout=compact" alt="fsaltunyuva" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsaltunyuva&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fsaltunyuva" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
