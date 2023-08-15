@@ -31,4 +31,4 @@
 <img src="https://github.com/fsaltunyuva/LaserDefender/blob/main/Laser%20Defender/Images-Gifs/laserdefenderoptimized.gif" width="500"/>
 </p>
 
-<img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="600" height="338" />
+<img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="500" height="338" />
