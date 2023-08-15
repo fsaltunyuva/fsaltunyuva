@@ -26,6 +26,9 @@
 <img src="https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif" width="500"/>  
 </p>
 
-<img src="https://github.com/fsaltunyuva/RocketOperator/blob/main/Image-Gifs/rocketoperatoroptimized.gif" />
-<img src="https://github.com/fsaltunyuva/LaserDefender/blob/main/Laser%20Defender/Images-Gifs/laserdefenderoptimized.gif" />
+<p float="left">
+<img src="https://github.com/fsaltunyuva/RocketOperator/blob/main/Image-Gifs/rocketoperatoroptimized.gif" width="500"/>
+<img src="https://github.com/fsaltunyuva/LaserDefender/blob/main/Laser%20Defender/Images-Gifs/laserdefenderoptimized.gif" width="500"/>
+</p>
+
 <img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="600" height="338" />
