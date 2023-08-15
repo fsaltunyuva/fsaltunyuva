@@ -25,7 +25,7 @@
 ![](https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif)
 ![](https://github.com/fsaltunyuva/RocketOperator/blob/main/Image-Gifs/rocketoperatoroptimized.gif)
 ![](https://github.com/fsaltunyuva/LaserDefender/blob/main/Laser%20Defender/Images-Gifs/laserdefenderoptimized.gif)
-![](https://github.com/fsaltunyuva/SnowBoarder/blob/main/SnowBoarder%20Project/Images-Gifs/snowboarderoptimized.gif)
+![](https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif))
 
 
 
