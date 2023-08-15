@@ -21,8 +21,10 @@
 
 <h3 align="left">GIF's from my games (They may take a few seconds to load):</h3>
 
+<p float="left">
 ![](https://github.com/fsaltunyuva/fsaltunyuva/blob/main/devrunoptimized.gif)
 ![](https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif)
 ![](https://github.com/fsaltunyuva/RocketOperator/blob/main/Image-Gifs/rocketoperatoroptimized.gif)
 ![](https://github.com/fsaltunyuva/LaserDefender/blob/main/Laser%20Defender/Images-Gifs/laserdefenderoptimized.gif)
 <img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="600" height="338" />
+</p>
