@@ -22,8 +22,8 @@
 <h3 align="left">GIF's from my games (They may take a few seconds to load):</h3>
 
 <p float="left">
-<img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/devrunoptimized.gif" width="550" />  
-<img src="https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif" width="550"/>  
+<img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/devrunoptimized.gif" width="520" />  
+<img src="https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif" width="520"/>  
 </p>
 
 <p float="left">
