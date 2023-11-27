@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Safa Altunyuva</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-- 🌱 I’m currently learning **game development with Unity**
+- 🌱 I’m currently learning **game development with Unity and Unreal Engine**
 
 - 💬 Ask me about **Java**
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsaltunyuva&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=hlsl,shaderlab,glsl,mathematica,cmake&hide_progress=false" alt="fsaltunyuva" /></p>
