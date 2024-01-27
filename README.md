@@ -23,11 +23,11 @@
 
 <p float="left">
 <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/devrunoptimized.gif" width="390" />  
-<img src="https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif" width="390"/>  
+<img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/SocialClampPreview.gif" width="390"/>
 </p>
 
 <p float="left">
-<img src="https://github.com/fsaltunyuva/RocketOperator/blob/main/Image-Gifs/rocketoperatoroptimized.gif" width="390"/>
+<img src="https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif" width="390"/>  
 <img src="https://github.com/fsaltunyuva/LaserDefender/blob/main/Laser%20Defender/Images-Gifs/laserdefenderoptimized.gif" width="390"/>
 </p>
 
