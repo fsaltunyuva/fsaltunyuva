@@ -34,3 +34,5 @@
 <img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="390" />
 <img src="https://github.com/fsaltunyuva/SnowBoarder/blob/main/SnowBoarder%20Project/Images-Gifs/snowboarderoptimized.gif" width="390"/>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fsaltunyuva&theme=transparent&hide_border=true&card_width=800)](https://git.io/streak-stats)
