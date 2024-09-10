@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **game development with Unity and Unreal Engine**
 
-- 💬 Ask me about **Java**
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsaltunyuva&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=hlsl,shaderlab,glsl,mathematica,make,jupyter%20notebook&hide_progress=false" alt="fsaltunyuva" /></p>
 
 
