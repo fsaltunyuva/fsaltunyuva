@@ -39,7 +39,7 @@
     <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
       <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/SocialClampPreview.gif" width="390" />
       <p align="center" style="font-weight: bold; margin-top: 5px;">
-        📱 <a href="link_to_game" target="_blank" style="text-decoration: none; color: #333;">
+        📱 <a href="https://fsaltunyuva.itch.io/social-clamp" target="_blank" style="text-decoration: none; color: #333;">
           Social Clamp
         </a> 📱
       </p>
