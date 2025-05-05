@@ -26,19 +26,81 @@
 
 <h3 align="left"> GIFs from my games (they may take a few seconds to load):</h3>
 
-<p float="left">
-<img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/devrunoptimized.gif" width="390" />  
-<img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/SocialClampPreview.gif" width="390"/>
-</p>
+<table>
+  <tr>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/devrunoptimized.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        👑 <a href="https://play.google.com/store/apps/details?id=com.SixTea.DevRun&hl=en" target="_blank" style="text-decoration: none; color: #333;">
+          DevRun!
+        </a> 👑
+      </p>
+    </td>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/SocialClampPreview.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        📱 <a href="link_to_game" target="_blank" style="text-decoration: none; color: #333;">
+          Social Clamp
+        </a> 📱
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        🌌 <a href="https://github.com/fsaltunyuva/Andromeda-s-Hero" target="_blank" style="text-decoration: none; color: #333;">
+          Andromeda's Hero
+        </a> 🌌
+      </p>
+    </td>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/ProtectorOfPinwheel/blob/main/Images-Gifs/laserdefenderoptimized.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        👾 <a href="https://fsaltunyuva.itch.io/protector-of-pinwheel" target="_blank" style="text-decoration: none; color: #333;">
+          Protector of Pinwheel
+        </a> 👾
+      </p>
+    </td>
+  </tr>
+  <tr>
+    </td>
+      <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/lightway.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        🔦 <a href="https://elifnazlib.itch.io/lightway" target="_blank" style="text-decoration: none; color: #333;">
+          LightWay
+        </a> 🔦
+      </p>
+    </td>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/dawntilldusk.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        🌻 <a href="https://fsaltunyuva.itch.io/dawn-till-dusk" target="_blank" style="text-decoration: none; color: #333;">
+          Dawn Till Dusk
+        </a> 🌻
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        ♣️ <a href="https://fsaltunyuva.itch.io/blackjack" target="_blank" style="text-decoration: none; color: #333;">
+          Blackjack
+        </a> ♣️
+      </p>
+    </td>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/FrostyGlider/blob/main/Images-Gifs/snowboarderoptimized.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        🏂 <a href="https://fsaltunyuva.itch.io/frosty-glider" target="_blank" style="text-decoration: none; color: #333;">
+          Frosty Glider
+        </a> 🏂
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p float="left">
-<img src="https://github.com/fsaltunyuva/Andromeda-s-Hero/blob/main/Images-Gifs/andromedasherooptimized.gif" width="390"/>  
-<img src="https://github.com/fsaltunyuva/ProtectorOfPinwheel/blob/main/Images-Gifs/laserdefenderoptimized.gif" width="390"/>
-</p>
-
-<p float="left">
-<img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="390" />
-<img src="https://github.com/fsaltunyuva/FrostyGlider/blob/main/Images-Gifs/snowboarderoptimized.gif" width="390"/>
-</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fsaltunyuva&theme=transparent&hide_border=true&card_width=800)](https://git.io/streak-stats)
