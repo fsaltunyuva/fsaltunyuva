@@ -57,7 +57,7 @@
     <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
       <img src="https://github.com/fsaltunyuva/ProtectorOfPinwheel/blob/main/Images-Gifs/laserdefenderoptimized.gif" width="390" />
       <p align="center" style="font-weight: bold; margin-top: 5px;">
-        👾 <a href="link_to_game" target="_blank" style="text-decoration: none; color: #333;">
+        👾 <a href="https://fsaltunyuva.itch.io/protector-of-pinwheel" target="_blank" style="text-decoration: none; color: #333;">
           Protector of Pinwheel
         </a> 👾
       </p>
@@ -86,7 +86,7 @@
     <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
       <img src="https://github.com/fsaltunyuva/Blackjack/blob/main/GIF/blackjack-optimized.gif" width="390" />
       <p align="center" style="font-weight: bold; margin-top: 5px;">
-        ♣️ <a href="link_to_game" target="_blank" style="text-decoration: none; color: #333;">
+        ♣️ <a href="https://fsaltunyuva.itch.io/blackjack" target="_blank" style="text-decoration: none; color: #333;">
           Blackjack
         </a> ♣️
       </p>
@@ -94,7 +94,7 @@
     <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
       <img src="https://github.com/fsaltunyuva/FrostyGlider/blob/main/Images-Gifs/snowboarderoptimized.gif" width="390" />
       <p align="center" style="font-weight: bold; margin-top: 5px;">
-        🏂 <a href="link_to_game" target="_blank" style="text-decoration: none; color: #333;">
+        🏂 <a href="https://fsaltunyuva.itch.io/frosty-glider" target="_blank" style="text-decoration: none; color: #333;">
           Frosty Glider
         </a> 🏂
       </p>
