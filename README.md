@@ -93,11 +93,11 @@
       </p>
     </td>
     <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
-      <img src="https://github.com/fsaltunyuva/ProtectorOfPinwheel/blob/main/Images-Gifs/laserdefenderoptimized.gif" width="390" />
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/universitylifesimulator.gif" width="390" />
       <p align="center" style="font-weight: bold; margin-top: 5px;">
-        👾 <a href="https://fsaltunyuva.itch.io/protector-of-pinwheel" target="_blank" style="text-decoration: none; color: #333;">
-          Protector of Pinwheel
-        </a> 👾
+        🎓 <a href="https://fsaltunyuva.itch.io/university-life-simulator" target="_blank" style="text-decoration: none; color: #333;">
+          University Life Simulator
+        </a> 🎓
       </p>
     </td>
   </tr>
@@ -112,11 +112,29 @@
       </p>
     </td>
     <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/earthlingvsmothernature.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        🌧️ <a href="https://fsaltunyuva.itch.io/earthlingvsmothernature" target="_blank" style="text-decoration: none; color: #333;">
+          Earthling vs. Mother Nature
+        </a> 🌧️
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
       <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/dawntilldusk.gif" width="390" />
       <p align="center" style="font-weight: bold; margin-top: 5px;">
         🌻 <a href="https://fsaltunyuva.itch.io/dawn-till-dusk" target="_blank" style="text-decoration: none; color: #333;">
           Dawn Till Dusk
         </a> 🌻
+      </p>
+    </td>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/ProtectorOfPinwheel/blob/main/Images-Gifs/laserdefenderoptimized.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        👾 <a href="https://fsaltunyuva.itch.io/protector-of-pinwheel" target="_blank" style="text-decoration: none; color: #333;">
+          Protector of Pinwheel
+        </a> 👾
       </p>
     </td>
   </tr>
@@ -135,24 +153,6 @@
         🏂 <a href="https://fsaltunyuva.itch.io/frosty-glider" target="_blank" style="text-decoration: none; color: #333;">
           Frosty Glider
         </a> 🏂
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
-      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/earthlingvsmothernature.gif" width="390" />
-      <p align="center" style="font-weight: bold; margin-top: 5px;">
-        🌧️ <a href="https://fsaltunyuva.itch.io/earthlingvsmothernature" target="_blank" style="text-decoration: none; color: #333;">
-          Earthling vs. Mother Nature
-        </a> 🌧️
-      </p>
-    </td>
-    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
-      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/universitylifesimulator.gif" width="390" />
-      <p align="center" style="font-weight: bold; margin-top: 5px;">
-        🎓 <a href="https://fsaltunyuva.itch.io/university-life-simulator" target="_blank" style="text-decoration: none; color: #333;">
-          University Life Simulator
-        </a> 🎓
       </p>
     </td>
   </tr>
