@@ -100,6 +100,24 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/earthlingvsmothernature.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        🌧️ <a href="https://fsaltunyuva.itch.io/earthlingvsmothernature" target="_blank" style="text-decoration: none; color: #333;">
+          Earthling vs. Mother Nature
+        </a> 🌧️
+      </p>
+    </td>
+    <td style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
+      <img src="https://github.com/fsaltunyuva/fsaltunyuva/blob/main/GIFs/universitylifesimulator.gif" width="390" />
+      <p align="center" style="font-weight: bold; margin-top: 5px;">
+        🎓 <a href="https://fsaltunyuva.itch.io/university-life-simulator" target="_blank" style="text-decoration: none; color: #333;">
+          University Life Simulator
+        </a> 🎓
+      </p>
+    </td>
+  </tr>
 </table>
 
 
