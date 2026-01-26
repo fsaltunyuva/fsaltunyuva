@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **several game projects and attending game jams**
 
 👾 Discover and play my game projects on my **[itch.io page](https://fsaltunyuva.itch.io)!**
+
 📖 Read my blogs on my **[hashnode page](https://hashnode.com/@fsaltunyuva)** 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsaltunyuva&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=hlsl,shaderlab,glsl,mathematica,cmake,jupyter%20notebook&hide_progress=false" alt="fsaltunyuva" /></p>
