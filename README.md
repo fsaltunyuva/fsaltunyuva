@@ -8,61 +8,34 @@
 - 🌱 I’m improving myself on **game development with Unity and other game engines**
 - 🔭 I’m currently working on **several game projects and attending game jams**
 
-👾 Discover and play my game projects on my **[itch.io page](https://fsaltunyuva.itch.io)!**
+👾 Discover and play my game projects on my **[itch.io page](https://fsaltunyuva.itch.io)!** [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)
 
-📖 Read my blogs on my **[hashnode page](https://hashnode.com/@fsaltunyuva)!** 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsaltunyuva&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=hlsl,shaderlab,glsl,mathematica,cmake,jupyter%20notebook&hide_progress=false" alt="fsaltunyuva" /></p>
-
+📖 Read my blogs on my **[hashnode page](https://hashnode.com/@fsaltunyuva)!** [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/furkanaltunyuva" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanaltunyuva" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/19469259/fsaltunyuva" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fsaltunyuva" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/fsaltunyuva" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fsaltunyuva" height="30" width="40" />
-  </a>
-</p>
-
+<p><a href="https://linkedin.com/in/furkanaltunyuva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://hashnode.com/@fsaltunyuva" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white" alt="HashNode"></a> 
+<a href="https://fsaltunyuva.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="itchio"></a> 
+<a href="https://stackoverflow.com/users/19469259/fsaltunyuva" target="_blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow"></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" />
-  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp" /></a>&nbsp;
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat-square&logo=cshrp&logoColor=white" alt="csharp" /></a>&nbsp;
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" /></a>&nbsp;
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenGl-5487A6?style=flat-square&logo=OpenGl&logoColor=fff" /></a>&nbsp;
+  <a href="https://developer.nvidia.com/cuda/toolkit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=fff" /></a>&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /></a>&nbsp;
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" /></a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" /></a>&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" /></a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=mssqlserver-white&logoColor=white" /></a>&nbsp;
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=fff" /></a>&nbsp;
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white" /></a>&nbsp;
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=flat-square&logo=godot-engine&logoColor=blue" /></a>
 </p>
-
 
 <h3 align="left"> GIFs from my games (they may take a few seconds to load):</h3>
 
